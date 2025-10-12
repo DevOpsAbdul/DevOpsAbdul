@@ -14,9 +14,7 @@
 
 ### 🌟 About Me
 - 🔭 I’m currently working as a **Specialist Engineer** focusing on workplace solutions  
-- 🌱 I’m currently learning **Docker, Kubernetes, CI/CD pipelines, and Cloud Automation**  
-- 👯 I’m looking to collaborate on **DevOps and Infrastructure projects**  
-- 💬 Ask me about **Docker, Nginx, Terraform, and cloud deployments**  
+- 🌱 I’m currently learning **Docker, Kubernetes, CI/CD pipelines, and Cloud Automation**    
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdelfatah-hussein-19b445145/)  
 - ⚡ Fun fact: I enjoy turning small projects into full containerized deployments  
 
