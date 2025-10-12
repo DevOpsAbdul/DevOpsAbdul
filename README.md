@@ -47,8 +47,6 @@
 
 ### 💼 Projects
 - [FirstProject](https://github.com/DevOpsAbdul/FirstProject) - My first Dockerized HTML website project  
-- [Project 2](#) - Short description  
-- [Project 3](#) - Short description  
 
 ---
 
