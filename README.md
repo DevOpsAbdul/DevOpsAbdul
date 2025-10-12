@@ -2,7 +2,7 @@
 <h3 align="center">
 💻 Specialist Engineer | DevOps Enthusiast | Continuous Learner</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=DevOpsAbdul&label=Profile%20views&color=0e75b6&style=flat" alt="DevOpsAbdul" />
 </p>
 
@@ -15,6 +15,13 @@
 - 💬 Ask me about **Docker, Nginx, Terraform, and cloud deployments**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdelfatah-hussein-19b445145/)  
 - ⚡ Fun fact: I enjoy turning small projects into full containerized deployments  
+
+---
+
+### ⚡ Currently Coding
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/141939/screenshots/3931250/animated-code.gif" alt="coding gif" width="400"/>
+</p>
 
 ---
 
@@ -60,6 +67,6 @@
 ---
 
 ### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevOpsAbdul&show_icons=true&locale=en&layout=compact" alt="DevOpsAbdul" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevOpsAbdul&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="DevOpsAbdul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevOpsAbdul&show_icons=_
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevOpsAbdul&show_icons=true&locale=en&theme=radic_
