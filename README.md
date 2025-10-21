@@ -59,7 +59,8 @@
 ---
 
 ### 💼 Projects
-- [FirstProject](https://github.com/DevOpsAbdul/FirstProject) - My first Dockerized HTML website project  
+- [FirstProject](https://github.com/DevOpsAbdul/FirstProject) - Dockerized HTML website project (basic)
+- [Bash Scripting](https://github.com/DevOpsAbdul/DevOps-Learning-BASH) - Fundamentals of Bash scripting
 
 ---
 
