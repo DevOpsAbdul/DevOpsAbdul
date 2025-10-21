@@ -25,6 +25,9 @@
   I’m currently working on revising my bash scripting
   Next: Learning the Network fundamentals
 </p>
+<p align="left">
+  Next: Learning the Network fundamentals
+</p>
 
 ---
 
