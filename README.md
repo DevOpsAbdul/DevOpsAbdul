@@ -20,9 +20,10 @@
 
 ---
 
-### ⚡ Currently Coding
+### ⚡ Currently Learning
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/141939/screenshots/3931250/animated-code.gif" alt="coding gif" width="400"/>
+  I’m currently working on revising my **bash scripting**
+  Next: Learning the Network fundamentals
 </p>
 
 ---
