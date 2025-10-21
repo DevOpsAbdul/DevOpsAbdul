@@ -21,8 +21,8 @@
 ---
 
 ### ⚡ Currently Learning
-<p align="center">
-  I’m currently working on revising my **bash scripting**
+<p align="left">
+  I’m currently working on revising my bash scripting
   Next: Learning the Network fundamentals
 </p>
 
