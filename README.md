@@ -67,8 +67,4 @@ Collection of Bash scripts covering fundamentals: arithmetic operations, file ha
 
 ---
 
-## Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdelfatah-hussein-19b445145/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width=
+<p align="center"><strong>Thank you for following my journey in DevOps</strong></p>
