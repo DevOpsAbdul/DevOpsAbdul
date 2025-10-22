@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdul Hussein</h1>
-<h3 align="center">
-💻 Specialist Engineer | DevOps Enthusiast | Continuous Learner</h3>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+DevOps+Enthusiast,;Love+to+learn+new+stuff..;Welcome+to+my+GitHub"></a>
-</p>
+<h1 align="center">Hi, I'm Abdul Hussein</h1>
+<h3 align="center">Specialist Engineer | DevOps Enthusiast | Continuous Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DevOpsAbdul&label=Profile%20views&color=0e75b6&style=flat" alt="DevOpsAbdul" />
@@ -12,26 +7,25 @@
 
 ---
 
-### 🌟 About Me
-- 🔭 I’m currently working as a **Specialist Engineer** focusing on workplace solutions  
-- 🌱 I’m currently learning **Docker, Kubernetes, CI/CD pipelines, and Cloud Automation**    
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdelfatah-hussein-19b445145/)  
-- ⚡ Fun fact: I enjoy turning small projects into full containerized deployments  
+## About Me
+
+- Currently working as a **Specialist Engineer** focusing on workplace solutions
+- Learning **Docker, Kubernetes, CI/CD pipelines, and Cloud Automation**
+- Passionate about turning small projects into full containerized deployments
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/abdelfatah-hussein-19b445145/)
 
 ---
 
-### ⚡ Currently Learning
-<p align="left">
-  I’m currently working on revising my bash scripting
-  Next: Learning the Network fundamentals
-</p>
-<p align="left">
-  Next: Learning the Network fundamentals
-</p>
+## Currently Learning
+
+**Now:** Revising Bash scripting fundamentals
+
+**Next:** Network fundamentals and advanced infrastructure automation
 
 ---
 
-### 🛠️ Languages and Tools
+## Languages and Tools
+
 <p align="left"> 
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/> 
@@ -54,26 +48,27 @@
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   </a>
-</p>
-
----
-
-### 💼 Projects
-- [FirstProject](https://github.com/DevOpsAbdul/FirstProject) - Dockerized HTML website project (basic)
-- [Bash Scripting](https://github.com/DevOpsAbdul/DevOps-Learning-BASH) - Fundamentals of Bash scripting
-
----
-
-### 🔗 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdelfatah-hussein-19b445145/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevOpsAbdul&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="DevOpsAbdul" /></p>
+## Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevOpsAbdul&show_icons=true&locale=en&theme=radic_
+### Featured Repositories
+
+**[FirstProject](https://github.com/DevOpsAbdul/FirstProject)**  
+Dockerized static HTML website demonstrating containerization fundamentals with Nginx
+
+**[Bash Scripting Journey](https://github.com/DevOpsAbdul/DevOps-Learning-BASH)**  
+Collection of Bash scripts covering fundamentals: arithmetic operations, file handling, conditionals, and automation
+
+---
+
+## Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdelfatah-hussein-19b445145/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width=
